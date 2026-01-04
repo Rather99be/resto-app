@@ -92,7 +92,7 @@ color:black;
     padding-bottom: 20px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.05);
     overflow: hidden;
-    border: 2px solid #000;
+    border: 2px solid cornflowerblue;
 }
 .card-img-css {
     width: 100%;
